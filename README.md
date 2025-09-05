@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Thanushree Sridhara
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;MLOps+Specialist;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Deep+Learning+Enthusiast;Interested+in+MLOps;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -36,7 +36,7 @@ I'm a passionate **Deep Learning Enthusiast** who loves turning data into action
 ### Data & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
@@ -70,15 +70,6 @@ I'm a passionate **Deep Learning Enthusiast** who loves turning data into action
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanubharadwaj&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanubharadwaj&theme=onestar&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 📫 Let's Connect!
 
