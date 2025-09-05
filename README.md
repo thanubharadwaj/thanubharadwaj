@@ -42,6 +42,8 @@ I'm a passionate **Deep Learning Enthusiast** who loves turning data into action
 
 ## 📊 Featured Projects
 
+> **Note for Recruiters**: Most of my significant projects are in private repositories to protect intellectual property. I'm happy to provide access and discuss implementations in detail. Please reach out!
+
 ### Agentic Chatbot 
 **Implemented Chatbot from scratch using modular coding**
 - **Tech Stack**: Python, Flask/FastAPI, Docker, Azure
@@ -56,7 +58,7 @@ I'm a passionate **Deep Learning Enthusiast** who loves turning data into action
 - **Status**: 🔒 *Private Repository - Request access for full code*
 - 📧 **Interested?** Contact me at [bharadwajthanu25@mail.com] for access
 
-> **Note for Recruiters**: Most of my significant projects are in private repositories to protect intellectual property. I'm happy to provide access and discuss implementations in detail. Please reach out!
+
 
 ---
 
