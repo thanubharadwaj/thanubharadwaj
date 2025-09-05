@@ -92,12 +92,6 @@ I'm a passionate **Deep Learning Enthusiast** who loves turning data into action
 - 🤝 **Collaboration style**: I bring the enthusiasm and terrible jokes, you bring the coffee - together we debug the universe! ☕🐛🌌
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanubharadwaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
-
-<div align="center">
   
 **⭐ If you find my work interesting, please consider starring my repositories! ⭐**
 
