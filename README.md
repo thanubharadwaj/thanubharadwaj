@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Deep Learning Enthusiast** who loves turning data into actionable insights and building intelligent systems. I specialize in end-to-end ML solutions, from research and development to production deployment.
+I'm a passionate **Deep Learning Enthusiast** who loves turning data into actionable insights and building intelligent systems. I work on end-to-end ML solutions, from research and development to production deployment.
 
 - 🔭 Currently working on: **Advanced ML deployment strategies ,MLOps pipelines, LLMOps**
 - 🌱 Learning: **Latest trends in AI/ML,RAG, AgenticAI, Cloud Technologies, and DevOps**
 - 💡 Interested in: **Deep Learning, Computer Vision, NLP, and Scalable ML Systems**
-- 📫 How to reach me: **[your-email@example.com]** 
+- 📫 How to reach me: **[bharadwajthanu25@gmail.com]** 
 - 💼 Open to: **ML Engineering roles, Data Science positions, and exciting collaborations**
 
 ---
